@@ -2,7 +2,7 @@
 
 PROJETO DE TRABALHO DE GRADUAÇÃO
 
-Autor: Bruno Ribeiro
+AUTOR: BRUNO RIBEIRO
 
 Engenharia de Software III
 
